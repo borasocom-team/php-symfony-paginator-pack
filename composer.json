@@ -1,0 +1,13 @@
+{
+  "name": "boraso/php-symfony-paginator-pack",
+  "autoload": {
+    "psr-4": {
+      "Boraso\\PaginatorBundle\\": "TurboLabIt/PaginatorBundle/src"
+    }
+  },
+  "require": {
+    "turbolabit/paginatorbundle": "dev-main"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
