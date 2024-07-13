@@ -1,5 +1,5 @@
 {
-  "name": "boraso/php-symfony-paginator-pack",
+  "name": "boraso/paginatorbundle",
   "autoload": {
     "psr-4": {
       "Boraso\\PaginatorBundle\\": "TurboLabIt/PaginatorBundle/src"
